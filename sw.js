@@ -1,5 +1,5 @@
 // Service Worker
-var CACHE_NAME = 'v-1577449101122'
+var CACHE_NAME = 'v-1577531932706'
 var urlsToCache = [
   '/',
   '/default.js',
@@ -13,7 +13,17 @@ var urlsToCache = [
   '/favicon-16x16.png',
   '/favicon-32x32.png',
   '/mstile-150x150.png',
-  '/site.webmanifest'
+  '/site.webmanifest',
+  '/audio/30-seconds-of-high-knees.mp3',
+  '/audio/30-seconds-of-bear-crawls.mp3',
+  '/audio/30-seconds-of-jumping-jacks.mp3',
+  '/audio/30-seconds-of-lunges.mp3',
+  '/audio/30-seconds-of-mountain-climbers.mp3',
+  '/audio/30-seconds-of-plank.mp3',
+  '/audio/30-seconds-of-punches.mp3',
+  '/audio/30-seconds-of-push-ups.mp3',
+  '/audio/30-seconds-of-shoulder-taps.mp3',
+  '/audio/30-seconds-of-squats.mp3'
 ]
 
 self.addEventListener('install', function(event) {
