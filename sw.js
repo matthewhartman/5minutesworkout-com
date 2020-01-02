@@ -1,5 +1,5 @@
 // Service Worker
-var CACHE_NAME = 'v-1577842725713'
+var CACHE_NAME = 'v-1577956007728'
 var urlsToCache = [
   '/',
   '/default.js',
