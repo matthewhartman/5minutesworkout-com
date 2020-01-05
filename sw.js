@@ -1,5 +1,5 @@
 // Service Worker
-var CACHE_NAME = 'v-1578056941367'
+var CACHE_NAME = 'v-1578254555651'
 var urlsToCache = [
   '/',
   '/default.js',
@@ -15,7 +15,7 @@ var urlsToCache = [
   '/mstile-150x150.png',
   '/site.webmanifest',
   '/audio/30-seconds-of-high-knees.mp3',
-  '/audio/30-seconds-of-bear-crawls.mp3',
+  '/audio/30-seconds-of-burpees.mp3',
   '/audio/30-seconds-of-jumping-jacks.mp3',
   '/audio/30-seconds-of-lunges.mp3',
   '/audio/30-seconds-of-mountain-climbers.mp3',
