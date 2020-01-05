@@ -22,6 +22,7 @@
   ],
   "name": "5 Minutes Workout",
   "short_name": "5 Minutes Workout",
+  "description": "Get fit and healthy with 5 minutes of exercise each day",
   "start_url": "/",
   "scope": "/",
   "theme_color": "#2920ab",
