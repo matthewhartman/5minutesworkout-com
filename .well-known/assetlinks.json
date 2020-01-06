@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.fiveminutesworkout.twa",
       "sha256_cert_fingerprints": [
-        "E5:8E:67:3F:7D:13:92:E8:9A:F0:1F:6F:90:1C:2D:73:A6:FB:24:58:73:A4:5E:16:A8:5F:A7:47:8D:6E:81:5C"
+        "E5:8E:67:3F:7D:13:92:E8:9A:F0:1F:6F:90:1C:2D:73:A6:FB:24:58:73:A4:5E:16:A8:5F:A7:47:8D:6E:81:5C",
+        "62:31:E5:D9:12:E6:0E:94:63:FB:C8:CA:A2:6D:39:68:A0:47:1E:93:1D:62:C3:6F:39:E3:53:D9:FB:78:BD:5C"
       ]
     }
   }
