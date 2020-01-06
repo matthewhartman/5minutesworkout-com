@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fiveminutesworkout.twa",
+      "sha256_cert_fingerprints": [
+        "E5:8E:67:3F:7D:13:92:E8:9A:F0:1F:6F:90:1C:2D:73:A6:FB:24:58:73:A4:5E:16:A8:5F:A7:47:8D:6E:81:5C"
+      ]
+    }
+  }
+]
