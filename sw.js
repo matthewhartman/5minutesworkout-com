@@ -1,5 +1,5 @@
 // Service Worker
-var CACHE_NAME = 'v-1578548530016'
+var CACHE_NAME = 'v-1578630472085'
 var urlsToCache = [
   '/',
   '/default.js',
@@ -27,6 +27,7 @@ var urlsToCache = [
 ]
 
 self.addEventListener('install', function(event) {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME)
     .then(function(cache) {
