@@ -1,5 +1,5 @@
 // Service Worker
-var CACHE_NAME = 'v-1578955120686'
+var CACHE_NAME = 'v-1578978201984'
 var urlsToCache = [
   '/',
   '/default.js',
@@ -14,16 +14,26 @@ var urlsToCache = [
   '/favicon-32x32.png',
   '/mstile-150x150.png',
   '/site.webmanifest',
-  '/audio/30-seconds-of-high-knees.mp3',
-  '/audio/30-seconds-of-burpees.mp3',
   '/audio/30-seconds-of-jumping-jacks.mp3',
-  '/audio/30-seconds-of-lunges.mp3',
-  '/audio/30-seconds-of-mountain-climbers.mp3',
-  '/audio/30-seconds-of-plank.mp3',
-  '/audio/30-seconds-of-punches.mp3',
   '/audio/30-seconds-of-push-ups.mp3',
+  '/audio/30-seconds-of-squats.mp3',
+  '/audio/30-seconds-of-punches.mp3',
   '/audio/30-seconds-of-shoulder-taps.mp3',
-  '/audio/30-seconds-of-squats.mp3'
+  '/audio/30-seconds-of-high-knees.mp3',
+  '/audio/30-seconds-of-mountain-climbers.mp3',
+  '/audio/30-seconds-of-lunges.mp3',
+  '/audio/30-seconds-of-plank.mp3',
+  '/audio/30-seconds-of-burpees.mp3',
+  '/audio/get-ready-for-jumping-jacks.mp3',
+  '/audio/get-ready-for-push-ups.mp3',
+  '/audio/get-ready-for-squats.mp3',
+  '/audio/get-ready-for-punches.mp3',
+  '/audio/get-ready-for-shoulder-taps.mp3',
+  '/audio/get-ready-for-high-knees.mp3',
+  '/audio/get-ready-for-mountain-climbers.mp3',
+  '/audio/get-ready-for-lunges.mp3',
+  '/audio/get-ready-for-plank.mp3',
+  '/audio/get-ready-for-burpees.mp3'
 ]
 
 self.addEventListener('install', function(event) {
